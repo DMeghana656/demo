@@ -14,5 +14,3 @@ A simple, lightweight, and interactive To-Do List web application built using HT
 - **HTML5:** For structuring the application layout.
 - **CSS3:** For styling, layout, and responsive design (`demo.css`).
 - **JavaScript (ES6+):** For interactivity, DOM manipulation, and task management logic (`demo.js`).
-
-## 📁 Project Structure
